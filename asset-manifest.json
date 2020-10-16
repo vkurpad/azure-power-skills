@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/azure-power-skills/static/css/main.5f361e03.chunk.css",
+    "main.js": "/azure-power-skills/static/js/main.69d287eb.chunk.js",
+    "main.js.map": "/azure-power-skills/static/js/main.69d287eb.chunk.js.map",
+    "runtime-main.js": "/azure-power-skills/static/js/runtime-main.fddf509e.js",
+    "runtime-main.js.map": "/azure-power-skills/static/js/runtime-main.fddf509e.js.map",
+    "static/js/2.838d10ac.chunk.js": "/azure-power-skills/static/js/2.838d10ac.chunk.js",
+    "static/js/2.838d10ac.chunk.js.map": "/azure-power-skills/static/js/2.838d10ac.chunk.js.map",
+    "index.html": "/azure-power-skills/index.html",
+    "precache-manifest.2e257607440bd183d1d0b3e75370a236.js": "/azure-power-skills/precache-manifest.2e257607440bd183d1d0b3e75370a236.js",
+    "service-worker.js": "/azure-power-skills/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/azure-power-skills/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.838d10ac.chunk.js.LICENSE.txt": "/azure-power-skills/static/js/2.838d10ac.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/azure-power-skills/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fddf509e.js",
+    "static/js/2.838d10ac.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.69d287eb.chunk.js"
+  ]
+}
